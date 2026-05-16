@@ -26,8 +26,8 @@
 - **比赛链接**：https://www.kaggle.com/competitions/word2vec-nlp-tutorial
 - **提交日期**：2026-05-16
 
-- **GitHub 仓库地址**：
-- **GitHub README 地址**：
+- **GitHub 仓库地址**：https://github.com/guomin268/shiyan2
+- **GitHub README 地址**：https://github.com/guomin268/shiyan2/blob/master/README.md
 
 > 注意：GitHub 仓库首页或 README 页面中，必须能看到"姓名 + 学号"，否则无效。
 
